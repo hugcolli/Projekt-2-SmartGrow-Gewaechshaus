@@ -58,7 +58,7 @@ Gesteuert wird die gesamte Anlage über eine **Siemens LOGO!** mit Erweiterungsm
 | 🟢 **20 °C bis 24 °C** (Sollbereich) | ❌ aus | ❌ aus | ❌ aus |
 | 🔴 **über 24 °C** (zu warm) | ✅ an | ✅ an | ❌ aus |
 
-Der Sollwert (Standard 22 °C) wird an der TDE eingestellt. Der Sollbereich liegt 2 K darunter und darüber.
+Der Sollwert (Standard 22 °C) wird an der TDE eingestellt. Der Sollbereich liegt 2 °C darunter und darüber.
 
 ### 💧 Bewässerung
 
