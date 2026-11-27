@@ -171,7 +171,7 @@ Die Bodenfeuchte wird mit demselben Prinzip übertragen: **0,5 V bis 10 V entspr
 | Simulation B1, B2 | DC-DC-Wandler HW-140 | 5,5–30 V Eingang · 0,5–30 V Ausgang · 3 A |
 
 > [!NOTE]
-> Einzelne Typen und Bereiche werden noch im Katalog geprüft. Die endgültige Liste steht in der `Projektmappe.docx`.
+> Einzelne Typen und Bereiche werden noch im Katalog geprüft. Die Hauptkomponenten stehen in der `Projektmappe.docx`, die vollständige Stückliste folgt mit dem EPLAN-Projekt.
 
 ---
 
@@ -194,7 +194,7 @@ Die Bodenfeuchte wird mit demselben Prinzip übertragen: **0,5 V bis 10 V entspr
 
 | Datei | Inhalt |
 |---|---|
-| 📘 [`Projektmappe.docx`](Projektmappe.docx) | Projektmappe mit Deckblatt, Funktionsbeschreibung, Skizze, Live Zero, Sollwert, offenen Fragen und Bauteilliste |
+| 📘 [`Projektmappe.docx`](Projektmappe.docx) | Projektmappe mit Deckblatt, Inhaltsverzeichnis, Skizze, Beschreibung, Zeitplan, Definition und Quellen |
 | 📄 [`Projektmappe.md`](Projektmappe.md) | Dieselben Inhalte als Text, direkt auf GitHub lesbar |
 | 🖼️ [`Skizze/`](Skizze) | Lageplan des Gewächshauses |
 
