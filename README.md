@@ -158,8 +158,8 @@ Die Bodenfeuchte wird mit demselben Prinzip übertragen: **0,5 V bis 10 V entspr
 | Lüfter M1, M2 | Oriental Motor 4IK25GN-UT4 + Getriebe 4GN50K | 400 V · 0,12 A · 25 W · ca. 26 U/min |
 | Pumpe M3 | Siemens 1LE1001-0CB22-2AA4 | 400 V · 0,76 A |
 | Schütze K1–K3 | Siemens Sirius 3RT2015-2BB42 | Steuerspannung 24 V DC · 3 kW (AC-3) |
-| Motorschutz F3, F4 | Siemens Sirius 3RV2011-0AA15 | eingestellt auf 0,12 A |
-| Motorschutz F5 | Siemens Sirius 3RV2011-0HA15 | eingestellt auf 0,76 A |
+| Motorschutz F3, F4 | Siemens 3VU1300-1MC00 | 0,16–0,24 A · eingestellt auf 0,16 A (Lüfter ziehen 0,12 A, mit Lehrer abgesprochen) |
+| Motorschutz F5 | Moeller PKZM0-1 | 0,63–1 A · eingestellt auf 0,76 A |
 | Netzteil T1 | Siemens SITOP PSU100L 6EP1334-1LB00 | 230 V AC auf 24 V DC · 10 A |
 | Hauptschalter Q1 | Siemens 3LD3054-0TL53 | 3-polig · 400 V |
 | Leitungsschutz F1, F2 | Siemens 5SY6202-7 / 5SY6102-7 | C · 2 A |
@@ -194,7 +194,8 @@ Die Bodenfeuchte wird mit demselben Prinzip übertragen: **0,5 V bis 10 V entspr
 
 | Datei | Inhalt |
 |---|---|
-| 📘 [`Projektmappe.docx`](Projektmappe.docx) | Projektmappe mit Skizze, Beschreibung, Zeitplan und Bauteilliste |
+| 📘 [`Projektmappe.docx`](Projektmappe.docx) | Projektmappe mit Deckblatt, Funktionsbeschreibung, Skizze, Live Zero, Sollwert, offenen Fragen und Bauteilliste |
+| 📄 [`Projektmappe.md`](Projektmappe.md) | Dieselben Inhalte als Text, direkt auf GitHub lesbar |
 | 🖼️ [`Skizze/`](Skizze) | Lageplan des Gewächshauses |
 
 > [!NOTE]
